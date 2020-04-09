@@ -11,6 +11,9 @@
 // @match          http*://skribbl.io/*
 // @grant          GM_setValue
 // @grant          GM_getValue
+// @updateURL      https://raw.githubusercontent.com/Andrusowski/skribblsaver/master/skribblsaver.js
+// @downloadURL    https://raw.githubusercontent.com/Andrusowski/skribblsaver/master/skribblsaver.js
+// @supportURL     https://github.com/Andrusowski/skribblsaver/issues
 // ==/UserScript==
 
 (function() {
