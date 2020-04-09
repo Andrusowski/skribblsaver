@@ -7,8 +7,10 @@
 // @author         Andrusowski
 // @license        MIT
 // @copyright      2020, Andrusowski (https://github.com/Andrusowski)
-// @match          http*://www.skribbl.io/*
-// @match          http*://skribbl.io/*
+// @match          https://www.skribbl.io/*
+// @match          https://skribbl.io/*
+// @match          http://www.skribbl.io/*
+// @match          http://skribbl.io/*
 // @grant          GM_setValue
 // @grant          GM_getValue
 // @updateURL      https://raw.githubusercontent.com/Andrusowski/skribblsaver/master/skribblsaver.js
